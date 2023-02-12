@@ -1,0 +1,26 @@
+.title {
+	font-size: 50px;
+	line-height: 20px;
+	font-family: 'Sriracha', cursive;
+	color: pink;
+	margin-top: 10px;
+}
+.title2{
+	font-size: 35px;
+	line-height: 39px;
+	font-family: 'Pacifico', cursive;
+}
+.Sypnosis{
+	font-size: 20px;
+	line-height: 45px;
+	font-family: 'Questrial', sans-serif;
+}
+.characters{
+
+}
+.description{
+	font-size: 20px;
+	line-height: 45px;
+	font-family: 'Questrial', sans-serif;
+	margin-right: 30px
+}
